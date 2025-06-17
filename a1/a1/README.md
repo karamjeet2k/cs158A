@@ -1,6 +1,6 @@
 contact information: karamjeet.kaur@sjsu.edu
 
-# Assignment 1
+# Assignment 1 
 Variable-Length Message Client-Server
 This project demonstrates a simple client-server communication using TCP sockets in Python. The client sends a message with a 2-digit length prefix, and the server reads the message, converts it to uppercase, and sends it back to the client.
 
