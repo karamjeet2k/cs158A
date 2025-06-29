@@ -36,7 +36,8 @@ how are you doing
 
 exit
 Disconnected from server
-![image](https://github.com/user-attachments/assets/a9e72bf2-bf9e-4645-8147-5a9362a219e5)
+![image](https://github.com/user-attachments/assets/3bd73c45-6ed2-4526-8353-5d48dd3fa284)
+
 
 
 
