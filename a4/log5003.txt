@@ -1,0 +1,7 @@
+My UUID: b00f33ef-ab2a-4989-9245-5bf949556cd0
+Sent: uuid=b00f33ef-ab2a-4989-9245-5bf949556cd0, flag=0
+Received: uuid=b00f33ef-ab2a-4989-9245-5bf949556cd0, flag=0, same, 0 — my own UUID back
+Sent: uuid=b00f33ef-ab2a-4989-9245-5bf949556cd0, flag=1
+Received: uuid=b00f33ef-ab2a-4989-9245-5bf949556cd0, flag=1, same, 1 | Leader is b00f33ef-ab2a-4989-9245-5bf949556cd0
+Received: uuid=6e3178a8-a151-4312-be56-dc5886e73772, flag=0, less, 1 | Leader is b00f33ef-ab2a-4989-9245-5bf949556cd0
+Leader is decided to b00f33ef-ab2a-4989-9245-5bf949556cd0.
