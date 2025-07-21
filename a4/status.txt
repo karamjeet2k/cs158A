@@ -1,2 +1,9 @@
 a3 passed all tests.
+My original a3 submission ran successfully, but I made a small improvement for better stability.
+
+I added a time.sleep(5) delay after the client connection retry (after the except block), to ensure that all neighbor servers are ready before sending the initial election message.
+
+This update prevents race conditions during message passing and ensures consistent leader election in every test run.
+
+All tests pass successfully with this version.
 
