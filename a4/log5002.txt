@@ -1,8 +1,10 @@
-My UUID: ba66c647-ae10-475f-8e7b-876e52333dd1
-Received: uuid=24537a75-24d4-468e-8821-e7edcb02edbf, flag=0, less, 0 - ignored
-Sent: uuid=ba66c647-ae10-475f-8e7b-876e52333dd1, flag=0
-Received: uuid=d46fbc87-0db5-4152-a3f0-d27a2793925a, flag=0, greater, 0
-Sent: uuid=d46fbc87-0db5-4152-a3f0-d27a2793925a, flag=0
-Received: uuid=d46fbc87-0db5-4152-a3f0-d27a2793925a, flag=1, greater, 1 | Leader is d46fbc87-0db5-4152-a3f0-d27a2793925a
-Sent: uuid=d46fbc87-0db5-4152-a3f0-d27a2793925a, flag=1
-Leader is decided to d46fbc87-0db5-4152-a3f0-d27a2793925a.
+My UUID: 6e3178a8-a151-4312-be56-dc5886e73772
+Received: uuid=a2d593eb-b85c-43c3-a5eb-78e354437374, flag=0, greater, 0
+Client send failed.
+Sent: uuid=a2d593eb-b85c-43c3-a5eb-78e354437374, flag=0
+Received: uuid=b00f33ef-ab2a-4989-9245-5bf949556cd0, flag=0, greater, 0
+Sent: uuid=b00f33ef-ab2a-4989-9245-5bf949556cd0, flag=0
+Received: uuid=b00f33ef-ab2a-4989-9245-5bf949556cd0, flag=1, greater, 1 | Leader is b00f33ef-ab2a-4989-9245-5bf949556cd0
+Sent: uuid=b00f33ef-ab2a-4989-9245-5bf949556cd0, flag=1
+Sent: uuid=6e3178a8-a151-4312-be56-dc5886e73772, flag=0
+Leader is decided to b00f33ef-ab2a-4989-9245-5bf949556cd0.
