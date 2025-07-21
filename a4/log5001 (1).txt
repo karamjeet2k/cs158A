@@ -1,6 +1,5 @@
-My UUID: ba66c647-ae10-475f-8e7b-876e52333dd1
-Received: uuid=24537a75-24d4-468e-8821-e7edcb02edbf, flag=0, less, 0 - ignored
-Sent: uuid=ba66c647-ae10-475f-8e7b-876e52333dd1, flag=0
+My UUID: 24537a75-24d4-468e-8821-e7edcb02edbf
+Sent: uuid=24537a75-24d4-468e-8821-e7edcb02edbf, flag=0
 Received: uuid=d46fbc87-0db5-4152-a3f0-d27a2793925a, flag=0, greater, 0
 Sent: uuid=d46fbc87-0db5-4152-a3f0-d27a2793925a, flag=0
 Received: uuid=d46fbc87-0db5-4152-a3f0-d27a2793925a, flag=1, greater, 1 | Leader is d46fbc87-0db5-4152-a3f0-d27a2793925a
