@@ -22,7 +22,7 @@ This assignment demonstrates how to create a secure HTTPS connection using Pytho
 - [x] Received the HTTP response and saved it
 - [x] Saved the response as `response.html`
 
-## 👩‍💻 Author
+##  Author
 Karamjeet Kaur  
 CS158A - San Jose State University  
 Summer 2025
